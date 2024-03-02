@@ -1,0 +1,28 @@
+{
+  "name": "project00",  
+  "version": "1.0.2",
+  "description": "mainblnk project ",  
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/nopblink/project00.git"  
+   },
+    "keywords": [
+    "test",     
+    "project",    
+    "matsh"     
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "nopblink",  
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nopblink/project00/issues" 
+  },
+  "homepage": "https://github.com/nopblink/project00#readme" 
+}
